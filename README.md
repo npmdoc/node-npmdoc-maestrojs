@@ -1,4 +1,7 @@
-# api documentation for  [maestrojs (v0.1.2)](https://github.com/Colex/maestrojs)  [![npm package](https://img.shields.io/npm/v/npmdoc-maestrojs.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-maestrojs) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-maestrojs.svg)](https://travis-ci.org/npmdoc/node-npmdoc-maestrojs)
+# npmdoc-maestrojs
+
+#### api documentation for  [maestrojs (v0.1.2)](https://github.com/Colex/maestrojs)  [![npm package](https://img.shields.io/npm/v/npmdoc-maestrojs.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-maestrojs) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-maestrojs.svg)](https://travis-ci.org/npmdoc/node-npmdoc-maestrojs)
+
 #### Maestrojs is a library for service orchestration relying on Redis for service discovery
 
 [![NPM](https://nodei.co/npm/maestrojs.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/maestrojs)
